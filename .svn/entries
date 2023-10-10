@@ -1,7 +1,7 @@
 8
 
 dir
-65900
+65901
 http://10.12.20.126/svn/webservice/trunk/service/goservice/src/tvu-mma-docs/static
 http://10.12.20.126/svn/webservice
 
@@ -32,11 +32,7 @@ file
 
 
 
-<<<<<<< HEAD
-2023-10-10T15:36:07.276000Z
-=======
-2023-10-10T14:53:39.747000Z
->>>>>>> 9d0c68ac30ff9c0220419545fcf3e5022965ac12
+2023-10-10T16:01:29.703000Z
 d41d8cd98f00b204e9800998ecf8427e
 2023-10-10T14:42:39.676495Z
 65900
