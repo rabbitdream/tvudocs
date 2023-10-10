@@ -18,4 +18,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 *.svn*
+=======
+>>>>>>> 9a86297737abc929fce4811853d028c46e62a730
