@@ -1,11 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svn/webservice/!svn/ver/65900/trunk/service/goservice/src/tvu-mma-docs/static
+/svn/webservice/!svn/ver/65902/trunk/service/goservice/src/tvu-mma-docs/static
 END
 .nojekyll
 K 25
 svn:wc:ra_dav:version-url
 V 88
 /svn/webservice/!svn/ver/65900/trunk/service/goservice/src/tvu-mma-docs/static/.nojekyll
+END
+CNAME
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/webservice/!svn/ver/65902/trunk/service/goservice/src/tvu-mma-docs/static/CNAME
 END

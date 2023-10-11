@@ -1,53 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svn/webservice/!svn/ver/65900/trunk/service/goservice/src/tvu-mma-docs/static/img
+/svn/webservice/!svn/ver/65902/trunk/service/goservice/src/tvu-mma-docs/static/img
 END
-docusaurus.png
+example1.png
 K 25
 svn:wc:ra_dav:version-url
-V 97
-/svn/webservice/!svn/ver/65900/trunk/service/goservice/src/tvu-mma-docs/static/img/docusaurus.png
+V 95
+/svn/webservice/!svn/ver/65902/trunk/service/goservice/src/tvu-mma-docs/static/img/example1.png
 END
-logo.svg
+example2.png
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/svn/webservice/!svn/ver/65900/trunk/service/goservice/src/tvu-mma-docs/static/img/logo.svg
-END
-undraw_docusaurus_mountain.svg
-K 25
-svn:wc:ra_dav:version-url
-V 113
-/svn/webservice/!svn/ver/65900/trunk/service/goservice/src/tvu-mma-docs/static/img/undraw_docusaurus_mountain.svg
-END
-undraw_docusaurus_tree.svg
-K 25
-svn:wc:ra_dav:version-url
-V 109
-/svn/webservice/!svn/ver/65900/trunk/service/goservice/src/tvu-mma-docs/static/img/undraw_docusaurus_tree.svg
-END
-favicon.ico
-K 25
-svn:wc:ra_dav:version-url
-V 94
-/svn/webservice/!svn/ver/65900/trunk/service/goservice/src/tvu-mma-docs/static/img/favicon.ico
-END
-docusaurus-social-card.jpg
-K 25
-svn:wc:ra_dav:version-url
-V 109
-/svn/webservice/!svn/ver/65900/trunk/service/goservice/src/tvu-mma-docs/static/img/docusaurus-social-card.jpg
+V 95
+/svn/webservice/!svn/ver/65902/trunk/service/goservice/src/tvu-mma-docs/static/img/example2.png
 END
 tvu.png
 K 25
 svn:wc:ra_dav:version-url
 V 90
 /svn/webservice/!svn/ver/65900/trunk/service/goservice/src/tvu-mma-docs/static/img/tvu.png
-END
-undraw_docusaurus_react.svg
-K 25
-svn:wc:ra_dav:version-url
-V 110
-/svn/webservice/!svn/ver/65900/trunk/service/goservice/src/tvu-mma-docs/static/img/undraw_docusaurus_react.svg
 END
